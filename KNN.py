@@ -38,3 +38,9 @@ print(confusion_matrix(y_test,y_pred))
 #Print Precision and Recall
 print('Accuracy Metrics')
 print(classification_report(y_test,y_pred))
+
+def new_predict(arr):
+    a1 = np.array(arr).reshape(1, -1)
+    pred = classifier.predict(a1)
+    print(type(pred))
+    print(pred[0])
