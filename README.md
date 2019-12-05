@@ -1,4 +1,4 @@
-# k-nearest-Neighbors
+# ML-KNN
 Implementation of K-Nearest Neighbors Algorithm using Python
 
 # About
