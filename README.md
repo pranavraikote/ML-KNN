@@ -8,7 +8,7 @@ K-nearest neighbors algorithm is a simple classification algorithm. KNN algorith
 1) Recommender Systems - Finding similar items <br>
 2) Political Science - Whether a voter will vote for a particular party ?<br>
 3) Image Recognition <br>
-4) Handwriting Detection and many more... <br>
+4) Handwriting Detection  <br>
 
 # Pre-requisites
 Download and install the following module: <br> 
